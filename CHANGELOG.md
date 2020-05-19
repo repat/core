@@ -1,5 +1,28 @@
 # CHANGELOG
 
+## 0.4.3
+
+> 2020-05-19
+
+* Allow `symfony/css-selector^5.0`
+
+## 0.4.2
+
+> 2020-03-20
+
+* Fix PSR-4 autoloading
+
+## 0.4.1
+
+> 2020-02-02
+
+* Fix another PHP 7.4 deprecation error
+
+## 0.4.0
+
+> 2020-01-31
+
+* Update PHP 7.4
 
 ## 0.3.1
 
